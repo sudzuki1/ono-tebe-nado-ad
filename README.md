@@ -1,1 +1,1 @@
-https://github.com/sudzuki1/ono-tebe-nado-ad
+https://github.com/TopMob/ono-tebe-nado-ad
